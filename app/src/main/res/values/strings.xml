@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="dust_2">Dust_2</string>
+    <string name="inferno">Inferno</string>
+    <string name="mirage">Mirage</string>
+    <string name="cache">Cache</string>
+
+    <string name="smoke">Smoke</string>
+    <string name="moly">Molotov</string>
+    <string name="flash">Flashbang</string>
+
+    <string name="smk_long">Long smoke</string>
+    <string name="smk_short">Short smoke</string>
+    <string name="smk_mid">Mid smoke</string>
+
+    <string name="back">back</string>
+
+
+    <string name="a1">Button1</string>
+    <string name="text1">Activity</string>
+</resources>
